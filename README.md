@@ -1,4 +1,4 @@
-# The Algorithmic Empath: Building Models That Understand Human Fallibility (Extended Edition)
+# The Algorithmic Empath: Building Models That Understand Human Fallibility
 
 ## Introduction, The Myth of the Perfect Machine
 
